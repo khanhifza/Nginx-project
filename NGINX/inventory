@@ -1,2 +1,2 @@
 [nodes]
-nginx ansible_host=34.203.236.63
+nginx ansible_host=13.235.71.34
